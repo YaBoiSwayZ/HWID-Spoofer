@@ -1,6 +1,6 @@
 @echo off
 
-set "taskname=HwidSpooferSystemTask"
+set "taskname=HwidSpoofer"
 set "scriptpath=%~dp0%~nx0"
 
 set "base_dir=C:\HwidSpoofer"
