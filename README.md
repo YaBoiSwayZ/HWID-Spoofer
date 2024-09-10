@@ -13,8 +13,7 @@ This script is designed to spoof hardware identifiers (HWIDs) on a Windows syste
 
 ## Prerequisites
 
-- It's a Living Off The Land Binary (LOLBin) Script, nothing needed to run it.
-
+- It's a Living Off The Land Binary (LOLBin) Proof of Concept (POC), nothing is needed for it to run.
 ## Installation
 
 1. **Download the Script:**
